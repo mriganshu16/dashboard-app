@@ -1,0 +1,14 @@
+/* OverviewScreen.css */
+.overview-container {
+    padding: 40px;
+    background-color: #2D2D2D;
+    color: white;
+    min-height: 100vh;
+  }
+  
+  .dashboard-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
